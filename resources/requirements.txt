@@ -1,0 +1,8 @@
+pandas
+pywin32
+selenium
+openpyxl
+configparser
+edgedriver-autoinstaller
+xlwings
+
